@@ -17,7 +17,7 @@ public class VentanaJuego extends JFrame {
     public static VentanaJuego instancia = null;
     private static long tiempoInicial = System.currentTimeMillis();
     private static long tiempoActual = tiempoInicial;
-    private static long periodoRepintado = 32;
+    private static long periodoRepintado = 15;
     
     public static VentanaJuego Singleton() {
         if (instancia == null) {
