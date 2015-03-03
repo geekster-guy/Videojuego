@@ -6,10 +6,6 @@ package imagenes;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Yair
- */
 public class prueba {
     
     public static void main(String[] args) {
