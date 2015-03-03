@@ -11,7 +11,6 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Yair
  */
 public class VentanaJuego extends JFrame {
     
